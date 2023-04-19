@@ -2,18 +2,18 @@
 
 ## Project Details
 
-Gol is a digital platform to connect tourists with holiday services providers in the U.T. of Lakshadweep.
+#### Technology Used
+ - React JS
+ - Node JS
+ - Mondo DB
+ - Redux
+ - JavaScript XML
 
 #### <a href="https://frontend-murex-xi.vercel.app/">Want to see live preview >></a>
 
 #### Desktop Screen
 ![Desktop](./output/img1.png)
 
-#### Tablet Screen
-![Tablet](./output/img2.png)
-
-#### Mobile Screen
-![Mobile](./output/img3.png)
 
 ## Install
 
@@ -25,4 +25,4 @@ To install all the dependences of the project, run the following command:
     cd ../frontend
     npm install
 
-© 2022 Nitesh Samaniya
+© 2023 Shakti Singh 
