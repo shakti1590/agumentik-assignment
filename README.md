@@ -19,7 +19,7 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/Nitesh-Samaniya/Agumentik-task.git
+    git clone https://github.com/shakti1590/agumentik-assignment.git
     cd backend
     npm install
     cd ../frontend
