@@ -9,7 +9,7 @@
  - Redux
  - JavaScript XML
 
-#### <a href="https://frontend-murex-xi.vercel.app/">Want to see live preview >></a>
+#### <a href="https://agumentik-assignment-al4r-cwn7olwzj-shakti1590.vercel.app/">Want to see live preview >></a>
 
 #### Desktop Screen
 ![Desktop](./output/img1.png)
